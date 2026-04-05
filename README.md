@@ -1,7 +1,7 @@
 # 👗 Clothing Sorter
 This notebook shows how to use transfer learning to fine tune an existing image classification model on a new dataset. In this case we have taken the [Clothing Dataset](https://github.com/alexeygrigorev/clothing-dataset) by Alexey Grigorev, which contains 10 classes of different attire.
 
-<img src="https://raw.githubusercontent.com/bshtmichielsen/clothing_sorter/refs/heads/main/BANNER.jpg" />
+<img src="https://raw.githubusercontent.com/Fontys/clothing_sorter/refs/heads/main/BANNER.jpg" />
 
 *Image by Stable Diffusion: a machine sorting clothing items and attire, colourful, funny*
 
