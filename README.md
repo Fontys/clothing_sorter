@@ -5,7 +5,7 @@ This notebook shows how to use transfer learning to fine tune an existing image 
 
 *Image by Stable Diffusion: a machine sorting clothing items and attire, colourful, funny*
 
-This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course:&nbsp;&nbsp;&nbsp; 🏠&nbsp;[House&nbsp;Price&nbsp;Predictor](https://github.com/Fontys/house_price_predictor)&nbsp;&nbsp;&nbsp; 🐏&nbsp;[Animal&nbsp;Sound&nbsp;Identifier](https://github.com/Fontys/animal_sound_identifier)&nbsp; &nbsp;👗&nbsp;[Clothing&nbsp;Sorter](https://github.com/Fontys/clothing_sorter)&nbsp;&nbsp;&nbsp; 🍎&nbsp;[Fruit&nbsp;Detector](https://github.com/Fontys/fruit_detector)&nbsp;&nbsp;&nbsp; 💬&nbsp;[Expert&nbsp;Chat](https://github.com/Fontys/expert_chat)&nbsp; Feel free to learn from the other parts too!
+This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course:&nbsp;&nbsp;&nbsp; 🏠&nbsp;[House&nbsp;Price&nbsp;Predictor](https://github.com/Fontys/house_price_predictor)&nbsp;&nbsp;&nbsp; 🐏&nbsp;[Animal&nbsp;Sound&nbsp;Identifier](https://github.com/Fontys/animal_sound_identifier)&nbsp; &nbsp;👗&nbsp;[Clothing&nbsp;Sorter](https://github.com/Fontys/clothing_sorter)&nbsp;&nbsp;&nbsp; 🌼&nbsp;[Wildflower&nbsp;Finder](https://github.com/Fontys/wildflower_finder)&nbsp;&nbsp;&nbsp; 💬&nbsp;[Expert&nbsp;Chat](https://github.com/Fontys/expert_chat)&nbsp; Feel free to learn from the other parts too!
 
 ## 📚 Preparation
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
@@ -28,4 +28,4 @@ The following is a list of considerations for improvement or for your own projec
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
 
-Michielsen, Bas S.H.T. (2025) "Clothing Sorter" GitHub: https://github.com/Fontys/clothing_sorter
+> Michielsen, Bas S.H.T. (2025) "Clothing Sorter" GitHub: https://github.com/Fontys/clothing_sorter
